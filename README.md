@@ -4,3 +4,5 @@ Machine learning codes are usually laden with far too many complexities (hyperpa
 
 Machine learning code involves phases of operations such as load, pre-process, visualise, train, cross validate and post-process. 
 It's these phases that I exploit in creating this framework to reduce the complexity involved in machine learning tasks.
+
+Please see [this](https://ranaalisaeed.github.io/blog/data-analytics-lifecycle/) post to see how this framework connects to the overall organisational strategy for data analytics.
